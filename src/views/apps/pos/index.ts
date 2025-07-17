@@ -1,0 +1,10 @@
+// Export all POS components for cleaner imports
+export { default as PosStatsCards } from './components/PosStatsCards'
+export { default as RecentOrders } from './components/RecentOrders'
+export { default as TopProducts } from './components/TopProducts'
+export { default as SalesChart } from './components/SalesChart'
+export { default as ProductSearch } from './components/ProductSearch'
+export { default as CartItems } from './components/CartItems'
+export { default as CustomerSelector } from './components/CustomerSelector'
+export { default as PaymentMethod } from './components/PaymentMethod'
+export { default as Receipt } from './components/Receipt'
